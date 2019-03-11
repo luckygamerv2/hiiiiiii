@@ -1909,4 +1909,4 @@ client.on('guildMemberAdd', member => {
  
  
  
-client.login('NTQ5MTY3MTg1MTUxNTI0ODY1.D1QKRg.XcxIKp9gwttsIdQP1BQzRjicUq8');
+client.login('NTU0NzMxNjU1NjEzMzgyNjU3.D2g5pw.ODxT9mjdy3BXg79_6SSw2RpkPto');
