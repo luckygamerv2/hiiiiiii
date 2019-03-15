@@ -58,5 +58,4 @@ client.on('message', function(message) {
     }
 });
 
-client.login(
-NTA5NzQyMDQ2MDc3MjU1NzQz.Ds7khQ.tnjDP-fX9zah6Y-duGFR46Iz09I);
+client.login(NTA5NzQyMDQ2MDc3MjU1NzQz.Ds7khQ.tnjDP-fX9zah6Y-duGFR46Iz09I);
